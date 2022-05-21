@@ -4,6 +4,7 @@ Vercel 测试项目。
 
 * 域名
     * https://yunser-nextjs.vercel.app/
+    * https://vercel.yunser.com/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
